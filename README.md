@@ -1,4 +1,4 @@
-# Front-End-Developer-Roadmap
+# Front End Developer Roadmap
 
 ***Starting with web development can be overwhelming. This front-end developer roadmap will guide you to start with it in the proper way. We will cover the most important building blocks of the web. This guide will help you to become a modern front-end developer.***
 
