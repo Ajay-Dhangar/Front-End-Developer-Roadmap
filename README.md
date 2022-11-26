@@ -1,87 +1,106 @@
 # Front-End-Developer-Roadmap
-Front-End Developer Roadmap
 
-Starting with web development can be overwhelming. This front-end developer roadmap will guide you to start with it in the proper way. We will cover the most important building blocks of the web. This guide will help you to become a modern front-end developer.
+***Starting with web development can be overwhelming. This front-end developer roadmap will guide you to start with it in the proper way. We will cover the most important building blocks of the web. This guide will help you to become a modern front-end developer.***
 
-Learn the Basics — HTML
+<details id=2>
+<summary><h2>Learn the Basics — HTML</h2></summary>
+  
 💫HTML
 
-⭐ Basics
+  - ⭐ Basics
 
-⭐ Emmet
+  - ⭐ Emmet
 
-⭐ Forms
+  - ⭐ Forms
 
-⭐ Semantic HTML
+  - ⭐ Semantic HTML
 
-⭐ SEO Basics
+  - ⭐ SEO Basics
+  
+</details>
 
-Learn the Basics — CSS
+<details id=2>
+<summary><h2>Learn the Basics — CSS</h2></summary>
 💫CSS
 
-⭐Basics
+- ⭐Basics
 
-⭐Selectors
+- ⭐Selectors
 
-⭐Positioning
+- ⭐Positioning
 
-⭐Box Model
+- ⭐Box Model
 
-⭐Display
+- ⭐Display
 
-⭐Specificity
+- ⭐Specificity
 
-⭐FlexBox
+- ⭐FlexBox
 
-⭐Grid
+- ⭐Grid
 
-⭐Media Queries
+- ⭐Media Queries
 
-⭐Pseudo Elements
+- ⭐Pseudo Elements
 
-⭐Pseudo Classes
+- ⭐Pseudo Classes
 
-⭐Animations
+- ⭐Animations
+  
 
-Learn the Basics — JS
+</details>
+
+
+<details id=2>
+<summary><h2>Learn the Basics — JS</h2></summary>
 💫JavaScript
+- ⭐Basic Syntax
 
-⭐Basic Syntax
+- ⭐DOM Manipulation
 
-⭐DOM Manipulation
+- ⭐Fetch API / Ajax
 
-⭐Fetch API / Ajax
+- ⭐Async Await
 
-⭐Async Await
+- ⭐Event Listeners
 
-⭐Event Listeners
+- ⭐ES6+ JavaScript
 
-⭐ES6+ JavaScript
+- ⭐Promises
 
-⭐Promises
+- ⭐Classes
 
-⭐Classes
+- ⭐Array Methods
 
-⭐Array Methods
+- ⭐Scoping
 
-⭐Scoping
+- ⭐Hoisting
 
-⭐Hoisting
+- ⭐Closures
 
-⭐Closures
+</details>
 
-Learn any CSS Framework
+
+<details id=2>
+<summary><h2>Learn any CSS Framework</h2></summary>
 💫These are the most popular ones
+  
+- ⭐Bootstrap
 
-⭐Bootstrap
+- ⭐Tailwind
 
-⭐Tailwind
+- ⭐Materialize
 
-⭐Materialize
 
-You don’t need to learn all the things mention in this roadmap to become a front-end developer or get a job as a front-end developer. There is no end of learning in web development there’s always something to learn.
+</details>
 
-So never stop learning!
-Thank You for your attention, Subscribe to my youtube channel for more Advanced Tutorials.
 
-YouTube Channel: Aj Zero Coding (1.11 K)
+
+
+***You don’t need to learn all the things mention in this roadmap to become a front-end developer or get a job as a front-end developer. There is no end of learning in web development there’s always something to learn.***
+
+**So, never stop learning!**
+
+***Thank You for your attention, Subscribe to my youtube channel for more Advanced Tutorials.***
+
+YouTube Channel: [Aj Zero Coding](https://www.youtube.com/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw)
